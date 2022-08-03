@@ -14,12 +14,12 @@
 [<img align="left" alt="shujaamarwat | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />][linkedin]
 [<img align="left" alt="shujaamarwat | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/640px-Instagram.svg.png" />][instagram]
 
-<br /><br />
+<br /><br /><br />
 
 
 ### Web Development (Frontend)
 
-<img align="left" alt="HTML" width="80px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-image-logo-html-7.png" />
+<img align="left" alt="HTML" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" />
 
 <img align="left" alt="CSS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
 
@@ -29,7 +29,7 @@
 
 <img align="left" alt="Angular" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" />
 
-<br /><br />
+<br /><br /><br />
 
 ### Web Development (Backend)
 
@@ -46,6 +46,16 @@
 <img align="left" alt="Node" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/1200px-Node.js_logo_2015.svg.png" />
 
 <img align="left" alt="Docker" width="80px" src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png" />
+<br /><br /><br />
+
+### Mobile Development
+
+<img align="left" alt="Flutter" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg" />
+
+<img align="left" alt="React" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" />
+
+<img align="left" alt="Kotlin" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png" />
+
 <br /><br />
 
 ### Databases
@@ -55,8 +65,7 @@
 <img align="left" alt="MongoDB" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" />
 
 <img align="left" alt="MySQL" width="60px" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" />
-
-<br /><br />
+<br /><br /><br />
 
 ### UI/UX Development
 
@@ -68,7 +77,7 @@
 
 <img align="left" alt="AdobeIllustrator" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" />
 
-<br /><br />
+<br /><br /><br />
 
 ### Blockchain Development
 
@@ -78,7 +87,7 @@
 
 <img align="left" alt="Truffle" width="40px" src="https://avatars.githubusercontent.com/u/22205159?s=280&v=4" />
 
-<br /><br />
+<br /><br /><br />
 
 ### Other Tools:
 <img align="left" alt="SPARQL" width="50px" src="https://cygri.github.io/rdf-logos/png/sparql-96.png" />
