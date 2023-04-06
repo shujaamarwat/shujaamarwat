@@ -1,10 +1,12 @@
 ### Hi there, I'm Shujaa 👋
 
-## I'm a Trainee Full Stack Developer and UI/UX Designer
+## I'm an Associate Software Engineer with a passion for UI/UX Design as well
 
 ### Professional Background 💻
 
-- <img align="left" alt="shujaamarwat | LinkedIn" width="35px" src="https://user-images.githubusercontent.com/56261790/182029815-88ca9dbd-60c1-451a-a725-7c3e6baab0a2.png"/> Web Developer Intern at Codistan
+- <img align="left" alt="Codistan" width="35px" src="https://user-images.githubusercontent.com/56261790/182029815-88ca9dbd-60c1-451a-a725-7c3e6baab0a2.png"/> Web Developer Intern at Codistan
+
+- <img align="left" alt="Devsinc" width="35px" src="https://user-images.githubusercontent.com/56261790/230332511-9f340958-ab4a-4f07-b258-bbff3ff97d4b.jpeg"/> Associate Software Engineer at Devsinc
 
 ### Academic Background 👨‍🎓
 - <img align="left" alt="andreachello | LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/en/e/e4/National_University_of_Computer_and_Emerging_Sciences_logo.png" /> BS Computer Science at FAST NUCES Islamabad
@@ -19,19 +21,27 @@
 
 ### Web Development (Frontend)
 
-<img align="left" alt="HTML" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" />
-
-<img align="left" alt="CSS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
-
-<img align="left" alt="JS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
-
 <img align="left" alt="React" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" />
 
 <img align="left" alt="Angular" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" />
 
+<img align="left" alt="JS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
+
+<img align="left" alt="Three" width="50px" src="https://user-images.githubusercontent.com/56261790/230341342-251f0ac6-aa70-4cbd-ac95-83e5b4e35f69.png" />
+
+<img align="left" alt="HTML" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" />
+
+<img align="left" alt="CSS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
+
 <br /><br /><br />
 
 ### Web Development (Backend)
+
+<img align="left" alt="Rails" width="40px" src="https://user-images.githubusercontent.com/56261790/230338990-92b0cfd5-3414-4bd9-82f3-899dff9b30de.png" />
+
+<img align="left" alt="Express" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />
+
+<img align="left" alt="Node" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/1200px-Node.js_logo_2015.svg.png" />
 
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
@@ -40,10 +50,6 @@
 <img align="left" alt="Django" width="60px" src="https://automationpanda.files.wordpress.com/2017/09/django-logo-negative.png" />
 
 <img align="left" alt="PHP" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" />
-
-<img align="left" alt="Express" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />
-
-<img align="left" alt="Node" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/1200px-Node.js_logo_2015.svg.png" />
 
 <img align="left" alt="Docker" width="80px" src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png" />
 <br /><br /><br />
