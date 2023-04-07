@@ -41,8 +41,9 @@ I'm currently an Associate Software Engineer with a passion for full-stack devel
 <img alt="Firebase" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/290px-Firebase_Logo.svg.png" />
 <img alt="MongoDB" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" />
 <img alt="MySQL" height="40px" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" />
-
 </p>
+
+<br />
 
 ### Mobile Development
 <p align="left">
@@ -68,6 +69,8 @@ I'm currently an Associate Software Engineer with a passion for full-stack devel
   <img alt="Solidity" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" />
   <img alt="Truffle" height="40px" src="https://avatars.githubusercontent.com/u/22205159?s=280&v=4" />
 </p>
+
+<br />
 
 ### Other Tools
 <p align="left">
