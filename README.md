@@ -5,7 +5,8 @@ I'm currently a Software Engineer with a passion for full-stack development and 
 ## Professional Background 💻
 
 - <img align="left" alt="Codistan" width="35px" src="https://user-images.githubusercontent.com/56261790/182029815-88ca9dbd-60c1-451a-a725-7c3e6baab0a2.png"/> Web Developer Intern at Codistan
-- <img align="left" alt="Devsinc" width="35px" src="https://user-images.githubusercontent.com/56261790/230332511-9f340958-ab4a-4f07-b258-bbff3ff97d4b.jpeg"/> Associate Software Engineer at Devsinc
+- <img align="left" alt="Devsinc" width="35px" src="https://user-images.githubusercontent.com/56261790/230332511-9f340958-ab4a-4f07-b258-bbff3ff97d4b.jpeg"/> Associate Software Engineer at Devsinc 
+
 - <img align="left" alt="Devsinc" width="35px" src="https://user-images.githubusercontent.com/56261790/230332511-9f340958-ab4a-4f07-b258-bbff3ff97d4b.jpeg"/> Software Engineer at Devsinc
 
 <br />
