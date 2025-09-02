@@ -2,13 +2,6 @@
 
 I'm a passionate **Full Stack Developer** and **AI Platform Architect** with 3+ years of experience building scalable, intelligent solutions. I specialize in transforming complex problems into elegant applications that deliver real business value. Currently working at **PookiDevs Technologies**, where I architect AI-driven platforms and sustainable tech solutions.
 
-## What I'm Building 🚀
-
-- 🤖 **Bravix** - AI platform that converts natural language to executable code (45% faster prototyping)
-- 🌱 **CarbonCede** - Carbon emission tracking and decarbonization platform (50% improved data processing)
-- 💡 Exploring cutting-edge AI integrations and sustainable technology solutions
-- 📈 Always optimizing for performance, scalability, and user experience
-
 ## Professional Journey 💻
 
 - <img align="left" alt="PookiDevs" width="35px" src="https://github.com/user-attachments/assets/17658a77-70c6-47f0-a585-cae881a0f3b4"/> **Full Stack Developer** at PookiDevs Technologies *(Current)*
