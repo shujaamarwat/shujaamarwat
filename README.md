@@ -86,8 +86,6 @@ I'm a passionate **Full Stack Developer** and **AI Platform Architect** with 3+ 
 
 ---
 
-💡 **Open to collaborating on innovative projects that make a positive impact!**
-
 [portfolio]: https://shujaamarwat.vercel.app
 [linkedin]: https://www.linkedin.com/in/shujaamarwat
 [email]: mailto:shujaamarwat@gmail.com
